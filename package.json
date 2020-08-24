@@ -1,5 +1,5 @@
 {
-  "name": "FCC-Advanced-Node-and-Express",
+  "name": "fcc_advanced_code_and_express",
   "author": "Andrew Bateman",
   "version": "0.0.1",
   "description": "Practise project for FCC Advanced Node and Express",
@@ -8,17 +8,18 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.3",
-    "cors": "^2.8.4",
     "body-parser": "^1.18.3",
-    "mongodb": "^3.1.6",
-    "helmet": "^3.13.0",
-    "pug": "^2.0.3",
-    "passport": "^0.4.0",
+    "cors": "^2.8.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.3",
     "express-session": "^1.15.6",
-    "passport-local": "^1.0.0",
+    "helmet": "^3.13.0",
+    "mongodb": "^3.1.6",
+    "passport": "^0.4.0",
     "passport-github": "^1.1.0",
+    "passport-local": "^1.0.0",
     "passport.socketio": "^3.7.0",
+    "pug": "^2.0.3",
     "socket.io": "^2.1.1"
   },
   "engines": {
