@@ -45,6 +45,7 @@
 * [mongoose v5](https://mongoosejs.com/) object modelling for node.js.
 * [Helmet v4](https://helmetjs.github.io/) Express.js security with HTTP headers.
 * [Passport v0.4](http://www.passportjs.org/) authentication middleware for Node.js
+* [Socket.io](https://www.npmjs.com/package/socket.io) to enable real-time bidirectional event-based communication
 * [Cors v2](https://www.npmjs.com/package/cors) node.js package for providing Connect/Express middleware that can be used to enable CORS with various options.
 * [Pug v3](https://pugjs.org/api/getting-started.html) template engine for Node.js and browser that compiles to HTML.
 * [jQuery v3](https://jquery.com/) Javascript library
